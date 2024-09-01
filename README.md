@@ -20,7 +20,7 @@
 - **Web Development:** Bootstrap, Tailwind, DOM Manipulation, SEO Best Practices
 - **Tools & Frameworks:** Git, JavaFX, Tkinter, Apache, PHP, GitHub
 - **Development Concepts:** OOP, Functional Programming, Data Structures & Algorithms
-- **Other Skills:** Server Management, UX Design, GUI Development
+
 
 ---
 
