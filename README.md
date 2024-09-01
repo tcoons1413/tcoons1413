@@ -34,7 +34,7 @@
 
 ### 🚀 Projects
 
-- **[Project 1: JavaFX GUI Application](https://github.com/tcoons1413/quiz-app)**  
+- **[Project 1: JavaFX GUI Quiz Application](https://github.com/tcoons1413/quiz-app)**  
   This is a simple quiz application developed using Java, JavaFX, and CSS. The application generates random questions involving subtraction, multiplication, and addition.
   It also manages quiz scores, providing users with feedback on their performance.
 
