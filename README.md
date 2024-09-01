@@ -38,11 +38,6 @@
   This is a simple quiz application developed using Java, JavaFX, and CSS. The application generates random questions involving subtraction, multiplication, and addition.
   It also manages quiz scores, providing users with feedback on their performance.
 
-- **[Project 2: Python Automation Script](https://github.com/tcoons1413/Python-Automation)**  
-
-
-- **[Project 3: Responsive Web Development](https://github.com/tcoons1413/Responsive-Web-Dev)**  
-
 
 ---
 
