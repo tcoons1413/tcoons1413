@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, JavaScript, PHP, HTML/CSS
+- **Languages:** Python, Java, JavaScript, PHP, HTML/CSS, C# and .NET
 - **Web Development:** Bootstrap, Tailwind, DOM Manipulation, SEO Best Practices
 - **Tools & Frameworks:** Git, JavaFX, Tkinter, GitHub
 - **Development Concepts:** OOP, Functional Programming, Data Structures & Algorithms
