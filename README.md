@@ -38,6 +38,8 @@
   This is a simple quiz application developed using Java, JavaFX, and CSS. The application generates random questions involving subtraction, multiplication, and addition.
   It also manages quiz scores, providing users with feedback on their performance.
 
+- **[Project 2: MyMovie Web Application](https://github.com/tcoons1413/Movies)**  
+  This is a web application designed for users to search and filter movies and TV shows. Some functionality still needs to be added (i.e.) specific movie search. 
 
 ---
 
