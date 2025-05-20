@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Thomas
+### 👨‍💻 About Me
 
 - 🌱 I’m currently honing my skills in software development at Mohawk College, focusing on building efficient and scalable applications.
 - 🔭 I’m passionate about solving real-world problems through code, and I love working with a wide range of technologies including Python, Java, JavaScript, and PHP.
