@@ -1,4 +1,4 @@
-# Hi there, I'm Thomas Coons 👋
+# Hi there, I'm Thomas Coons 
 
 **Software Developer | Enthusiastic Learner | Problem Solver**
 
