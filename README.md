@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently honing my skills in software development at Mohawk College, focusing on building efficient and scalable applications.
+- 🌱 I am a current software developer/support graduate from Mohawk College, focusing on building efficient and scalable applications.
 - 🔭 I’m passionate about solving real-world problems through code, and I love working with a wide range of technologies including Python, Java, JavaScript, and PHP.
 - 🎯 My goal is to leverage my skills to build impactful and innovative software solutions that drive business success.
 - 💬 Ask me about Object-Oriented Programming, Functional Programming, or anything tech-related!
